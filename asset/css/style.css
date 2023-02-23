@@ -65,7 +65,7 @@ main {
 }
 
 .item {
-    background-color: lightgray;
+    /* background-color: lightgray; */
     width: 95%;
     height: 90%;
     flex-wrap: wrap;
